@@ -1,0 +1,50 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/nav_home" />
+        <item
+            android:id="@+id/nav_people"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="@string/nav_people" />
+        <item
+            android:id="@+id/nav_my_music"
+            android:icon="@drawable/ic_library_music_black_24dp"
+            android:title="@string/nav_my_music" />
+        <item
+            android:id="@+id/nav_top_charts"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="@string/nav_top_charts" />
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:title="@string/nav_music_languages" />
+        <item
+            android:id="@+id/nav_pro"
+            android:icon="@drawable/ic_shop_black_24dp"
+            android:title="@string/nav_buy_pro" />
+
+    </group>
+
+    <item android:title="@string/communicate">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/nav_share" />
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="@string/nav_settings" />
+
+        </menu>
+    </item>
+
+</menu>

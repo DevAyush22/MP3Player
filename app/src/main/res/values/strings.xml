@@ -1,0 +1,108 @@
+<resources>
+
+    <!-- Name of the app -->
+    <string name="app_name">♪MP3 Player♬</string>
+
+    <!-- Navigation drawer settings when clicked -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Menu actions when clicked -->
+    <string name="action_settings">Settings</string>
+
+    <!-- Label name for the songs layout screen -->
+    <string name="songs">Songs</string>
+
+    <!-- Label name for the artists layout screen -->
+    <string name="artists">Artists</string>
+
+    <!-- Label name for the albums layout screen -->
+    <string name="albums">Albums</string>
+
+    <!-- Text on Home Screen -->
+    <string name="home_screen">HOME SCREEN OF APP</string>
+    <string name="home_screen_desc">This activity is main home screen of the app. Every other activity can be acceessed from here. Data of music arrives here from online databases such as Google Music API.</string>
+
+    <!-- Text on Albums screen -->
+    <string name="albums_layout_screen">ALBUMS LAYOUT SCREEN</string>
+    <string name="album_layout_desc">This activity displays different music albums picture and name in a gridView format. By clicking on any grid item will open all songs of that album.</string>
+
+    <!-- Text on Artists screen -->
+    <string name="artists_layout_screen">ARTISTS LAYOUT SCREEN</string>
+    <string name="artists_layout_desc">This activity displays different music artists picture and name in a gridView format. By clicking on any grid item will open all songs by that artist.</string>
+
+    <!-- Text on Payment screen -->
+    <string name="payment_layout">PayPal API</string>
+    <string name="payment_layout_desc">PayPal API offers online payment solution. Functionality includes invoice management, transaction processing and account management.</string>
+    <string name="payment_layout_src">Paypal API can be used by referring API References and Guides at: https://developer.paypal.com/reference/</string>
+
+    <!-- Text on Songs screen -->
+    <string name="music_library_screen">MUSIC LIBRARY SCREEN</string>
+    <string name="music_library_desc">This activity displays all songs and its details in a listView. The screen allows user to play any song by clicking on the list item.</string>
+
+    <!-- Text for the buttons -->
+    <string name="button_songs">SONGS</string>
+    <string name="button_artists">ARTISTS</string>
+    <string name="button_albums">ALBUMS</string>
+
+    <!-- Text for new released songs in Home screen activity -->
+    <string name="new_releases">NEW RELEASES</string>
+    <string name="view_all">View All ></string>
+    <string name="havana">Havana</string>
+    <string name="camila_cabello">Camila Cabello</string>
+    <string name="fix_you">Fix You</string>
+    <string name="coldplay">Coldplay</string>
+    <string name="ritual_ft_wrabel">Ritual (ft. Wrabel)</string>
+    <string name="marshmello">Marshmello</string>
+    <string name="believer">Believer</string>
+    <string name="imagine_dragons">Imagine Dragons</string>
+    <string name="the_one">The One</string>
+    <string name="chainsmokers">Chainsmokers</string>
+
+    <!-- Text for recently played songs in Home screen activity -->
+    <string name="recently_played">RECENTLY PLAYED</string>
+    <string name="whatever_it_takes">Whatever It Takes</string>
+    <string name="without_you">Without You</string>
+    <string name="avicii">Avicii</string>
+    <string name="just_the_way_you_are">Just The Way You Are</string>
+    <string name="bruno_mars">Bruno Mars</string>
+    <string name="silence">Silence</string>
+    <string name="marshmello_ft_khalid">Marshmello ft. Khalid</string>
+    <string name="fireflies">Fireflies</string>
+    <string name="owl_city">Owl City</string>
+
+    <!-- Navigation Drawer list items -->
+    <string name="nav_home">Home</string>
+    <string name="nav_people">People</string>
+    <string name="nav_my_music">My Music</string>
+    <string name="nav_top_charts">Top Charts</string>
+    <string name="nav_music_languages">Music Languages</string>
+    <string name="nav_buy_pro">Buy Pro</string>
+    <string name="communicate">Communicate</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Navigation bar items -->
+    <string name="nav_header_name">Ayush Aggarwal</string>
+    <string name="nav_header_desc">ayush.agg22@gmail.com</string>
+
+    <!-- Toast message when any item is clicked on albums screen -->
+    <string name="albums_toast_msg">♪♪  Opens all songs of the Album  ♬</string>
+
+    <!-- Toast message when any item is clicked on artists screen -->
+    <string name="artists_toast_msg">♪♪  Opens all songs of the Artist  ♬</string>
+
+    <!-- Songs list on the songs screen -->
+    <string name="hall_of_fame">Hall Of Fame</string>
+    <string name="the_script">The Script</string>
+    <string name="avicii_sandro">Avicii, Sandro Cavazza</string>
+    <string name="sky_full_of_stars">A Sky Full Of Stars</string>
+    <string name="superheroes">Superheroes</string>
+    <string name="maps">Maps</string>
+    <string name="maroon_five">Maroon 5</string>
+    <string name="stereo_hearts">Stereo Hearts</string>
+    <string name="adam_levine">Adam Levine</string>
+    <string name="ritual">Ritual</string>
+    <string name="wake_me_up">Wake Me Up</string>
+
+</resources>
